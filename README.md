@@ -11,3 +11,4 @@ This bank application allows the user to:
     7. Quit (to end the program)
 
 Each account presents the following data: account number, first name, second name and balance.The program creates a text file where all the data of the accounts that are created and operated by the user is stored. When the program starts, it reads all the data from this file.
+I did this bank application as the final project of the course: Learn C++ Programming -Beginner to Advance- Deep Dive in C++ (https://www.udemy.com/course/cpp-deep-dive/). 
