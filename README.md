@@ -12,7 +12,7 @@ This bank application allows the user to:
 
 The program is composed by two main classes: Account, which is defined by a set of first name, second name and balance; and  Bank, which contains the map that is used to store each account with its identifier (account number), and all the functions that are required for the operations that this application allows.
 
-The program creates a text file (Accounts.txt) where all the data of the accounts that are created and operated by the user are stored. When the program starts, it extracts the data from this file.
+The program creates a text file (Accounts.txt) where all the data of the accounts that are created and operated by the user are stored. When the program starts, it extracts the data from this file if it exits.
 
 
 
