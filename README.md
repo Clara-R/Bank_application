@@ -10,5 +10,16 @@ This bank application allows the user to:
     6. Show all accounts (show all the data of the existing accounts)
     7. Quit (to end the program)
 
-Each account presents the following data: account number, first name, second name and balance.The program creates a text file where all the data of the accounts that are created and operated by the user is stored. When the program starts, it reads all the data from this file.
+The program is composed by two main classes: Account, which is defined by a set of first name, second name and balance; and  Bank, which contains the map that is used to store each account with its identifier (account number), and all the functions that are required for the operations that this application allows.
+
+The program creates a text file (Accounts.txt) where all the data of the accounts that are created and operated by the user are stored. When the program starts, it extracts the data from this file.
+
+
+
+
+
+
+
+
+
 I did this bank application as the final project of the course: Learn C++ Programming -Beginner to Advance- Deep Dive in C++ (https://www.udemy.com/course/cpp-deep-dive/). 
